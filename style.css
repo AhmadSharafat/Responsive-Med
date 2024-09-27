@@ -70,15 +70,15 @@ body {
   color: rgb(29, 160, 212);
 }
 .navbar-expand-lg .navbar-collapse {
-  justify-content: space-around;
+  gap:0rem;
 }
 .navbar-brand {
-  margin-left: 5rem;
+  margin-left: 6.2rem;
 }
 .navbar-expand-lg .navbar-nav {
-  gap: 1rem;
-  font-size: 1.2rem;
-  margin-left: 2rem;
+ 
+  font-size: 1.1rem;
+  margin-left: 1rem;
   text-transform: capitalize;
   font-weight: 500;
   padding: 20px 12px;
