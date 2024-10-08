@@ -1,2 +1,3 @@
 # Responsive-Med
-This page is fully responsive and i fo in the depth of responsiveness 
+Learned Responsive Design by building this project
+I make this template responsive from mobile to large devices as part of frontend learning!
